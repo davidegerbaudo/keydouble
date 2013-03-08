@@ -21,8 +21,8 @@
 #include <X11/extensions/record.h>
 #include <X11/keysym.h>
 
-#define ARTIFICIAL_TIMEOUT 600
-#define SLEEP_MICROSEC 100*1000
+#define ARTIFICIAL_TIMEOUT 200
+#define SLEEP_MICROSEC 5*1000
 #define MAX_CODE 256
 #define CODE_UNDEF -1
 #define PAIR_SEP ":"
