@@ -1,4 +1,4 @@
-#! /bin/dash
+#!/bin/sh
 
 XMODMAP_CONF="$HOME/.xmodmaprc"
 KEYDOUBLE_CONF="$HOME/.keydoublerc"
